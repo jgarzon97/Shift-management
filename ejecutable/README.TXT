@@ -1,6 +1,6 @@
-========================
-BUILD OUTPUT DESCRIPTION
-========================
+=============================================
+IMPLEMENTATION OF THE SHIFT MANAGEMENT SYSTEM
+=============================================
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
@@ -11,7 +11,7 @@ JAR files manifest file (MANIFEST.MF).
 To run the project from the command line, go to the dist folder and
 type the following:
 
-java -jar "TurnosAutomaticos.jar" 
+java -jar "Gestion_de_Turnos.jar" 
 
 To distribute this project, zip up the dist folder (including the lib folder)
 and distribute the ZIP file.
@@ -30,3 +30,4 @@ the projects runtime path.
 in the Projects window and choose Properties. Then click Run and enter the
 class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
+
