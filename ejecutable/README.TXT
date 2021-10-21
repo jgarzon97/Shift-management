@@ -1,3 +1,6 @@
-# Gestión de turnos aleatorios
+# Shift_management<br>
 
-Para ejecutar la aplicación se necesista todo el contenido de la carpeta ejecutable, para que funcione correctamente el archivo .jar
+<img src="https://i.ibb.co/72RpVFn/img1.jpg" alt="Los Tejos" />
+
+User : admin
+Password : 2020
