@@ -1,7 +1,7 @@
 # Gestión de turnos
 
 Simulación gráfica para la gestión de turnos a personas, mediante el lenguaje de programación java implementando la estructura de datos colas. El simulador
-fue realizado a través del IDE Netbeans bajo lenguaje de programación Java.
+fue realizado a través del IDE Netbeans.
 
 * Estructuras de Datos tipo Colas.
 * Creación de 3 ventanillas (1 Prioridad - 2 Común).
